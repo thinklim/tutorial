@@ -33,3 +33,4 @@ mysql> status
 ### References
 
 - https://hub.docker.com/_/mysql
+- https://dev.mysql.com/doc/refman/8.0/en/linux-installation-docker.html
